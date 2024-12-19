@@ -38,7 +38,7 @@ We used googlecolab for the project, and all the codes work with a path to a goo
 
 To make the code work, the path to the data at the beginning of each notebook should be changed. Also, the data needs to be prepared: Manually put the clean and cracked images in folders called "Clean" and "Cracked" for each split, so that the dataloader can work. Then, when training the code, the saving path should also be changed. And lastly, the path to load the models should be changed as well. 
 
-The weights for the final model are provided in the github, and can be used in the "Step_4_Results.ipynb" to reproduce our final results.
+The weights for the final model are provided in the github as the file 'GoogLeNet_trial_1_best.pth', and can be used in the "Step_4_Results.ipynb" to reproduce our final results.
 
 ## About the txt files:
 
